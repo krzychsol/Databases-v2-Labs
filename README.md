@@ -5,4 +5,4 @@
 - [x] Lab 1: Oracle/PL SQL
 - [x] Lab 2: Entity Framework
 - [x] Lab 3: Hibernat/JPA
-- [ ] Lab 4: NoSQL/MongoDB
+- [x] Lab 4: NoSQL/MongoDB
