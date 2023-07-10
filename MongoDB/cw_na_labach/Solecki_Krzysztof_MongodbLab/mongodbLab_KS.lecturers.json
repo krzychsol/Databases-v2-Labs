@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "648f162c2ac76f648517fec0"
+  },
+  "faculty": [
+    "IET",
+    "EAIIB",
+    "WIMiR"
+  ],
+  "degree": [
+    "inż",
+    "mgr",
+    "dr",
+    "prof"
+  ],
+  "fname": "Jan",
+  "lname": "Kowalski",
+  "age": 39,
+  "address": {
+    "street": "Kwiatowa",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-901",
+    "homeNumber": 121
+  },
+  "subjects": [
+    {
+      "subjectName": "Introduction to Computer Science",
+      "role": "lecturer",
+      "subjectID": {
+        "$oid": "648f162c2ac76f648517fec1"
+      }
+    },
+    {
+      "subjectName": "Algorithms and Data Structures",
+      "role": "assistant",
+      "subjectID": {
+        "$oid": "648f162c2ac76f648517fec2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569eccc4"
+  },
+  "faculty": [
+    "IET",
+    "EAIIB"
+  ],
+  "degree": [
+    "inż",
+    "mgr"
+  ],
+  "fname": "Marian",
+  "lname": "Nowak",
+  "age": 43,
+  "address": {
+    "street": "Pszczelna",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-920",
+    "homeNumber": 124
+  },
+  "subjects": [
+    {
+      "subjectName": "Haskell Programming",
+      "role": "assistant",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccc5"
+      }
+    },
+    {
+      "subjectName": "Advanced Machine Learning",
+      "role": "assistant",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccc6"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569eccc7"
+  },
+  "faculty": [
+    "IET",
+    "EAIIB"
+  ],
+  "degree": [
+    "inż",
+    "mgr",
+    "dr"
+  ],
+  "fname": "Faustyna",
+  "lname": "Kowalska",
+  "age": 41,
+  "address": {
+    "street": "Opolska",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-920",
+    "homeNumber": 23
+  },
+  "subjects": [
+    {
+      "subjectName": "Numerical Methods",
+      "role": "lecturer",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccc8"
+      }
+    },
+    {
+      "subjectName": "Probability Theory and Statistics",
+      "role": "assistant",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccc9"
+      }
+    },
+    {
+      "subjectName": "Operating Systems",
+      "role": "assistant",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccca"
+      }
+    }
+  ]
+}]

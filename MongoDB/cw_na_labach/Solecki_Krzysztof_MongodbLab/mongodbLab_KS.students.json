@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "648f1c0d5153300871e2e8e3"
+  },
+  "indexNumber": 403231,
+  "semester": 4,
+  "faculty": "IET",
+  "fname": "Krzysztof",
+  "lname": "Solecki",
+  "age": 23,
+  "address": {
+    "street": "Kwiatkowa",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-901",
+    "homeNumber": 121
+  },
+  "subjects": [
+    {
+      "subjectName": "Discrete Mathematics",
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e4"
+      }
+    },
+    {
+      "subjectName": "Algorithms and Data Structures",
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e5"
+      }
+    },
+    {
+      "subjectName": "Programming in C",
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e6"
+      }
+    }
+  ],
+  "grades": [
+    {
+      "subjectName:": "Discrete Mathematics",
+      "subjectGrades": [
+        5,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e7"
+      }
+    },
+    {
+      "subjectName:": "Algorithms and Data Structures",
+      "subjectGrades": [
+        3,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e8"
+      }
+    },
+    {
+      "subjectName:": "Programming in C",
+      "subjectGrades": [
+        5,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f1c0d5153300871e2e8e9"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569ecccb"
+  },
+  "indexNumber": 402122,
+  "semester": 4,
+  "faculty": "IET",
+  "fname": "Bartosz",
+  "lname": "Walczak",
+  "age": 22,
+  "address": {
+    "street": "Akacjowa",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-901",
+    "homeNumber": 23
+  },
+  "subjects": [
+    {
+      "subjectName": "Operating Systems",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569ecccc"
+      }
+    },
+    {
+      "subjectName": "Numerical Methods",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569ecccd"
+      }
+    },
+    {
+      "subjectName": "Automata and Formal Languages",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccce"
+      }
+    }
+  ],
+  "grades": [
+    {
+      "subjectName:": "Operating Systems",
+      "subjectGrades": [
+        3,
+        3.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569ecccf"
+      }
+    },
+    {
+      "subjectName:": "Numerical Methods",
+      "subjectGrades": [
+        3,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd0"
+      }
+    },
+    {
+      "subjectName:": "Automata and Formal Languages",
+      "subjectGrades": [
+        4,
+        2,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd1"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569eccd2"
+  },
+  "indexNumber": 408122,
+  "semester": 1,
+  "faculty": "IET",
+  "fname": "Anna",
+  "lname": "Rogowska",
+  "age": 21,
+  "address": {
+    "street": "Głogowska",
+    "city": "Cracow",
+    "country": "Poland",
+    "zip": "30-901",
+    "homeNumber": 244
+  },
+  "subjects": [
+    {
+      "subjectName": "Algebra",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd3"
+      }
+    },
+    {
+      "subjectName": "Introduction to Computer Science",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd4"
+      }
+    },
+    {
+      "subjectName": "Interpersonal Communication",
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd5"
+      }
+    },
+    {
+      "subjectName": "Haskell Programming",
+      "subjectID": {
+        "$oid": "648f735200c567e76fa82b2c"
+      }
+    }
+  ],
+  "grades": [
+    {
+      "subjectName:": "Algebra",
+      "subjectGrades": [
+        3,
+        3.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd6"
+      }
+    },
+    {
+      "subjectName:": "Introduction to Computer Science",
+      "subjectGrades": [
+        3,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd7"
+      }
+    },
+    {
+      "subjectName:": "Interpersonal Communication",
+      "subjectGrades": [
+        4,
+        2,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f710f4e841c87569eccd8"
+      }
+    },
+    {
+      "subjectName:": "Haskell Programming",
+      "subjectGrades": [
+        3,
+        4.5,
+        4,
+        5,
+        4
+      ],
+      "subjectID": {
+        "$oid": "648f735200c567e76fa82b2d"
+      }
+    }
+  ]
+}]

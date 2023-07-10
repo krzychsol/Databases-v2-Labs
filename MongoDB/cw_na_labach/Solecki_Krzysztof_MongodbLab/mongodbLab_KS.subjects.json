@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "648f6749c27ba66abe6df672"
+  },
+  "name": "Discrete Mathematics",
+  "fieldOfStudy": "Computer Science",
+  "mandatory": "obligatory",
+  "lectureLanguage": "Polish",
+  "faculty": "IET",
+  "form of verification": "exam",
+  "numberOfHours": {
+    "noLectures": 30,
+    "noExercises": 30,
+    "noLaboratories": 0
+  },
+  "assistant": {
+    "name": "Jan Kowalski",
+    "id": {
+      "$oid": "648f6749c27ba66abe6df673"
+    }
+  },
+  "lecturers": [
+    {
+      "name": "Jan Kowalski",
+      "id": {
+        "$oid": "648f6749c27ba66abe6df674"
+      }
+    }
+  ],
+  "literature": [
+    "Discrete Mathematics",
+    "Discrete Mathematics and its Applications"
+  ],
+  "ECTS": "5",
+  "goals": "The aim of the course is to introduce students to the basic concepts of discrete mathematics and to develop their skills in the use of these concepts in solving problems related to computer science.",
+  "studyContent": "1. Set theory. 2. Relations and functions. 3. Combinatorics. 4. Graph theory. 5. Boolean algebra. 6. Logic. 7. Number theory.",
+  "additionalInformation": "The course is a continuation of the course 'Introduction to Computer Science'.",
+  "reviews": [
+    {
+      "studentID": {
+        "$oid": "648f6749c27ba66abe6df675"
+      },
+      "studentName": "Krzysztof Solecki",
+      "content": "Very interesting subject, I recommend it to everyone."
+    },
+    {
+      "studentID": {
+        "$oid": "648ff6098b27c805a24b4c97"
+      },
+      "studentName": "Bartosz Walczak",
+      "content": "Interesting and useful subject."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569eccd9"
+  },
+  "name": "Algorithms and Data Structures",
+  "fieldOfStudy": "Computer Science",
+  "mandatory": "obligatory",
+  "lectureLanguage": "Polish",
+  "faculty": "IET",
+  "form of verification": "exam",
+  "numberOfHours": {
+    "noLectures": 30,
+    "noExercises": 30,
+    "noLaboratories": 0
+  },
+  "assistant": {
+    "name": "Piotr Horban",
+    "id": {
+      "$oid": "648f710f4e841c87569eccda"
+    }
+  },
+  "lecturers": [
+    {
+      "name": "Daniel Lewandowski",
+      "id": {
+        "$oid": "648f710f4e841c87569eccdb"
+      }
+    }
+  ],
+  "literature": [
+    "Cormen, Leiserson, Rivest, Stein: Introduction to Algorithms, MIT Press, 2009",
+    "T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein: Wprowadzenie do algorytmów, Wydawnictwo Naukowo-Techniczne, 2001"
+  ],
+  "ECTS": "6",
+  "goals": "The aim of the course is to acquaint students with the basic algorithms and data structures used in computer science. The course is a continuation of the course Introduction to Computer Science.",
+  "reviews": [
+    {
+      "studentID": {
+        "$oid": "648f710f4e841c87569eccdc"
+      },
+      "studentName": "Bartosz Walczak",
+      "content": "Hard but interesting subject. I recommend it to everyone who wants to learn something about algorithms and data structures."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "648f710f4e841c87569eccdd"
+  },
+  "name": "Haskell Programming",
+  "fieldOfStudy": "Computer Science",
+  "mandatory": "elective",
+  "lectureLanguage": "English",
+  "faculty": "WIMiR",
+  "form of verification": "assessment",
+  "numberOfHours": {
+    "noLectures": 14,
+    "noExercises": 0,
+    "noLaboratories": 30
+  },
+  "assistant": {
+    "name": "Szymon Chojnacki",
+    "id": {
+      "$oid": "648ff35ed0b539aeb8d0164c"
+    }
+  },
+  "lecturers": [
+    {
+      "name": "Urszula Kaczmarek",
+      "id": {
+        "$oid": "648f710f4e841c87569eccdf"
+      }
+    },
+    {
+      "name": "Urszula Kaczmarek",
+      "id": {
+        "$oid": "648f74c05d0ceb84a1191811"
+      }
+    },
+    {
+      "name": "Urszula Kaczmarek",
+      "id": {
+        "$oid": "648f74cc4bc9059e8cbb2289"
+      }
+    }
+  ],
+  "literature": [
+    "Graham Hutton: Programming in Haskell, Cambridge University Press, 2007",
+    "Graham Hutton: Programowanie w Haskellu, Helion, 2016"
+  ],
+  "ECTS": "3",
+  "goals": "The aim of the course is to aquire knowledge about functional programming in Haskell language. The course is a continuation of the course Introduction to Computer Science.",
+  "reviews": [
+    {
+      "studentID": {
+        "$oid": "648f710f4e841c87569ecce0"
+      },
+      "studentName": "Anna Rogowska",
+      "content": "Boredom. I don't recommend it to anyone."
+    }
+  ]
+}]
